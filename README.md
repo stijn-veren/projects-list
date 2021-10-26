@@ -18,3 +18,11 @@ Source: https://youtu.be/w7ejDZ8SWv8
 * React Task Tracker: https://github.com/stijn-veren/react-task-tracker
 
 
+
+### Learning Backbone.js by Kai Gittens
+Source: https://www.linkedin.com/learning/learning-backbone-js
+
+#### Project 
+* Backbone Web App: https://github.com/stijn-veren/backbone-web-app
+
+
