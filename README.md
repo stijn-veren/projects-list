@@ -7,7 +7,7 @@ List of learning projects created for educational purposes
 Source: https://youtu.be/xJZa2_aldDs
 
 #### Project 
-* Youtube App: https://github.com/stijn-veren/youtube-app
+* Youtube App: https://github.com/stijn-veren/rqc-vm-youtube-app
 
 
 
@@ -15,7 +15,7 @@ Source: https://youtu.be/xJZa2_aldDs
 Source: https://youtu.be/w7ejDZ8SWv8
 
 #### Project 
-* React Task Tracker: https://github.com/stijn-veren/react-task-tracker
+* React Task Tracker: https://github.com/stijn-veren/rcc-bt-react-task-tracker
 
 
 
@@ -23,6 +23,6 @@ Source: https://youtu.be/w7ejDZ8SWv8
 Source: https://www.linkedin.com/learning/learning-backbone-js
 
 #### Project 
-* Backbone Web App: https://github.com/stijn-veren/backbone-web-app
+* Backbone Web App: https://github.com/stijn-veren/lb-kg-backbone-web-app
 
 
