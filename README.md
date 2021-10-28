@@ -32,3 +32,13 @@ Source: https://youtu.be/sfmL6bGbiN8
 
 #### Project 
 * Shopping Cart: https://github.com/stijn-veren/bsc-tw-react-shopping-cart
+
+#
+
+### React + Redux - Professional Development by Juriy Bura
+Source: https://www.udemy.com/course/pro-react-redux/
+
+#### Project 
+* Todo App: https://github.com/stijn-veren/rrp-jb-todo-app
+
+#
