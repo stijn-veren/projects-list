@@ -38,7 +38,8 @@ Source: https://youtu.be/sfmL6bGbiN8
 ### React + Redux - Professional Development by Juriy Bura
 Source: https://www.udemy.com/course/pro-react-redux/
 
-#### Project 
+#### Projects
 * Todo App: https://github.com/stijn-veren/rrp-jb-todo-app
+* Star DB App: https://github.com/stijn-veren/rrp-jb-star-db
 
 #
