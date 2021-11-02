@@ -41,5 +41,6 @@ Source: https://www.udemy.com/course/pro-react-redux/
 #### Projects
 * Todo App: https://github.com/stijn-veren/rrp-jb-todo-app
 * Star DB App: https://github.com/stijn-veren/rrp-jb-star-db
+* Hooks App: https://github.com/stijn-veren/rrp-jb-hooks
 
 #
