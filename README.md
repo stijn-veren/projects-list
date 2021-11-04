@@ -52,3 +52,11 @@ Source: https://www.linkedin.com/learning/react-js-building-an-interface-8551484
 * React Interface: https://github.com/stijn-veren/rbi-rv-react-interface
 
 #
+
+### React.js Essential Training by Eve Porcello
+Source: https://www.linkedin.com/learning/react-js-essential-training
+
+#### Project 
+* React Essentials: https://github.com/stijn-veren/ret-ep-react-essentials
+
+#
