@@ -42,7 +42,8 @@ Source: https://www.udemy.com/course/pro-react-redux/
 * Todo App: https://github.com/stijn-veren/rrp-jb-todo-app
 * Star DB App: https://github.com/stijn-veren/rrp-jb-star-db
 * Hooks App: https://github.com/stijn-veren/rrp-jb-hooks
-* Redux Sandbox: https://github.com/stijn-veren/rrp-jb-redux-sandbox 
+* Redux Sandbox: https://github.com/stijn-veren/rrp-jb-redux-sandbox
+* Re Store App: https://github.com/stijn-veren/rrp-jb-re-store
 
 #
 
