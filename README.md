@@ -62,3 +62,13 @@ Source: https://www.linkedin.com/learning/react-js-essential-training
 * React Essentials: https://github.com/stijn-veren/ret-ep-react-essentials
 
 #
+
+### React: Building Styles with CSS Modules by Emmanuel Henri
+Source: React: https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678
+
+#### Project
+* CSS Modules App: https://github.com/stijn-veren/rbs-eh-css-modules
+
+#
+
+
