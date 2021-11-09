@@ -71,4 +71,10 @@ Source: React: https://www.linkedin.com/learning/react-building-styles-with-css-
 
 #
 
+### React: Software Architecture by Shaun Wassell
+Source: React: https://www.linkedin.com/learning/react-software-architecture
 
+#### Projects
+* React Server-Side Rendering Example: https://github.com/stijn-veren/rsa-sw-ssr-example
+
+#
