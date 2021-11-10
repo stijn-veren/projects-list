@@ -75,6 +75,7 @@ Source: React: https://www.linkedin.com/learning/react-building-styles-with-css-
 Source: React: https://www.linkedin.com/learning/react-software-architecture
 
 #### Projects
-* React Server-Side Rendering Example: https://github.com/stijn-veren/rsa-sw-ssr-example
+* React Server-Side Rendering Example: https://github.com/stijn-veren/rsa-sw-ssr-example/tree/main/ssr-example
+* React State Management Architecture Example: https://github.com/stijn-veren/rsa-sw-ssr-example/tree/main/sma-example
 
 #
