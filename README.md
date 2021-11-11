@@ -39,11 +39,11 @@ Source: https://youtu.be/sfmL6bGbiN8
 Source: https://www.udemy.com/course/pro-react-redux/
 
 #### Projects
-* Todo App: https://github.com/stijn-veren/rrp-jb-todo-app
-* Star DB App: https://github.com/stijn-veren/rrp-jb-star-db
-* Hooks App: https://github.com/stijn-veren/rrp-jb-hooks
-* Redux Sandbox: https://github.com/stijn-veren/rrp-jb-redux-sandbox
-* Re Store App: https://github.com/stijn-veren/rrp-jb-re-store
+* Todo App: https://github.com/stijn-veren/rrp-jb/tree/main/todo-app
+* Star DB App: https://github.com/stijn-veren/rrp-jb/tree/main/star-db
+* Hooks App: https://github.com/stijn-veren/rrp-jb/tree/main/hooks
+* Redux Sandbox: https://github.com/stijn-veren/rrp-jb/tree/main/redux-sandbox
+* Re Store App: https://github.com/stijn-veren/rrp-jb/tree/main/re-store
 
 #
 
