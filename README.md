@@ -2,6 +2,9 @@
 
 List of learning projects created for educational purposes
 
+> ### This is not an official repositories for the tutorials code.
+> This repositories was created by me for educational purposes during the study of the courses and may contain differences from the original code.
+
 #
 
 ### React JS Quick Course 2020 by Vladilen Minin
