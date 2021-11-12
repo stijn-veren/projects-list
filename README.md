@@ -6,57 +6,57 @@ List of learning projects created for educational purposes
 
 ### React JS Quick Course 2020 by Vladilen Minin
 
-Source: https://youtu.be/xJZa2_aldDs
+**Source:** https://www.youtube.com/watch?v=xJZa2_aldDs
 
-Link:
+**Link:** https://github.com/stijn-veren/rqc-vm
 
-#### Project
+#### Projects
 
-- Youtube App: https://github.com/stijn-veren/rqc-vm-youtube-app
+- Youtube App: https://github.com/stijn-veren/rqc-vm/tree/main/youtube-app
 
 #
 
 ### React JS Crash Course 2021 by Brad Traversy
 
-Source: https://youtu.be/w7ejDZ8SWv8
+**Source:** https://www.youtube.com/watch?v=w7ejDZ8SWv8
 
-Link:
+**Link:** https://github.com/stijn-veren/rcc-bt
 
-#### Project
+#### Projects
 
-- React Task Tracker: https://github.com/stijn-veren/rcc-bt-react-task-tracker
+- React Task Tracker: https://github.com/stijn-veren/rcc-bt/tree/main/react-task-tracker
 
 #
 
 ### Learning Backbone.js by Kai Gittens
 
-Source: https://www.linkedin.com/learning/learning-backbone-js
+**Source:** https://www.linkedin.com/learning/learning-backbone-js
 
-Link:
+**Link:** https://github.com/stijn-veren/lb-kg
 
-#### Project
+#### Projects
 
-- Backbone Web App: https://github.com/stijn-veren/lb-kg-backbone-web-app
+- Backbone Web App: https://github.com/stijn-veren/lb-kg/tree/main/backbone-web-app
 
 #
 
 ### Build a Shopping Cart with React and TypeScript by Thomas Weibenfalk
 
-Source: https://youtu.be/sfmL6bGbiN8
+**Source:** https://www.youtube.com/watch?v=sfmL6bGbiN8
 
-Link:
+**Link:** https://github.com/stijn-veren/bsc-tw
 
-#### Project
+#### Projects
 
-- Shopping Cart: https://github.com/stijn-veren/bsc-tw-react-shopping-cart
+- Shopping Cart: https://github.com/stijn-veren/bsc-tw/tree/main/react-shopping-cart
 
 #
 
 ### React + Redux - Professional Development by Juriy Bura
 
-Source: https://www.udemy.com/course/pro-react-redux/
+**Source:** https://www.udemy.com/course/pro-react-redux/
 
-Link: https://github.com/stijn-veren/rrp-jb
+**Link:** https://github.com/stijn-veren/rrp-jb
 
 #### Projects
 
@@ -70,45 +70,45 @@ Link: https://github.com/stijn-veren/rrp-jb
 
 ### React.js: Building an Interface by Ray Villalobos
 
-Source: https://www.linkedin.com/learning/react-js-building-an-interface-8551484
+**Source:** https://www.linkedin.com/learning/react-js-building-an-interface-8551484
 
-Link:
+**Link:** https://github.com/stijn-veren/ret-ep
 
-#### Project
+#### Projects
 
-- React Interface: https://github.com/stijn-veren/rbi-rv-react-interface
+- React Interface: https://github.com/stijn-veren/ret-ep/tree/main/react-essentials
 
 #
 
 ### React.js Essential Training by Eve Porcello
 
-Source: https://www.linkedin.com/learning/react-js-essential-training
+**Source:** https://www.linkedin.com/learning/react-js-essential-training
 
-Link:
+**Link:** https://github.com/stijn-veren/ret-ep
 
-#### Project
+#### Projects
 
-- React Essentials: https://github.com/stijn-veren/ret-ep-react-essentials
+- React Essentials: https://github.com/stijn-veren/ret-ep/tree/main/react-essentials
 
 #
 
 ### React: Building Styles with CSS Modules by Emmanuel Henri
 
-Source: React: https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678
+**Source:** https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678
 
-Link:
+**Link:** https://github.com/stijn-veren/rbs-eh
 
-#### Project
+#### Projects
 
-- CSS Modules App: https://github.com/stijn-veren/rbs-eh-css-modules
+- CSS Modules App: https://github.com/stijn-veren/rbs-eh/tree/main/css-modules
 
 #
 
 ### React: Software Architecture by Shaun Wassell
 
-Source: React: https://www.linkedin.com/learning/react-software-architecture
+**Source:** https://www.linkedin.com/learning/react-software-architecture
 
-Link:
+**Link:** https://github.com/stijn-veren/rsa-sw
 
 #### Projects
 
