@@ -68,6 +68,7 @@ List of learning projects created for educational purposes
 - Hooks App: https://github.com/stijn-veren/rrp-jb/tree/main/hooks
 - Redux Sandbox: https://github.com/stijn-veren/rrp-jb/tree/main/redux-sandbox
 - Re Store App: https://github.com/stijn-veren/rrp-jb/tree/main/re-store
+- Build Sandbox: https://github.com/stijn-veren/rrp-jb/tree/main/build-sandbox
 
 #
 
