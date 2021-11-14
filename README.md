@@ -120,3 +120,15 @@ List of learning projects created for educational purposes
 - React State Management Architecture Example: https://github.com/stijn-veren/rsa-sw/tree/main/sma-example
 
 #
+
+### Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL) by Andrei Neagoie and Yihua Zhang
+
+**Source:** https://www.udemy.com/course/complete-react-developer-zero-to-mastery
+
+**Link:** https://github.com/stijn-veren/crd-an
+
+#### Projects
+
+- Monsters Rolodex: https://github.com/stijn-veren/crd-an/tree/main/monsters-rolodex
+
+#
