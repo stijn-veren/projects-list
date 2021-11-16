@@ -131,4 +131,6 @@ List of learning projects created for educational purposes
 
 - Monsters Rolodex: https://github.com/stijn-veren/crd-an/tree/main/monsters-rolodex
 
+- Pure React: https://github.com/stijn-veren/crd-an/tree/main/pure-react/src
+
 #
