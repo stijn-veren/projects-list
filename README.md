@@ -133,4 +133,6 @@ List of learning projects created for educational purposes
 
 - Pure React: https://github.com/stijn-veren/crd-an/tree/main/pure-react/src
 
+- CRWN Clothing: https://github.com/stijn-veren/crd-an/tree/main/crwn-clothing
+
 #
