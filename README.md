@@ -136,3 +136,15 @@ List of learning projects created for educational purposes
 - CRWN Clothing: https://github.com/stijn-veren/crd-an/tree/main/crwn-clothing
 
 #
+
+### Creative Coding: Making Visuals with JavaScript by Bruno Imbrizi
+
+**Source:** https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript
+
+**Link:** https://github.com/stijn-veren/ccm-bi
+
+#### Projects
+
+- name: link
+
+#
