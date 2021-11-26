@@ -1,5 +1,9 @@
 # Projects List
 
+###### [RESOURCES FOR PROJECTS](https://github.com/stijn-veren/projects-list/blob/main/resources.md)
+
+#
+
 List of learning projects created for educational purposes
 
 > ### These are not official repositories for the tutorials code.
