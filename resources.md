@@ -164,16 +164,17 @@
 
 [rrp-jb](https://github.com/stijn-veren/rrp-jb)
 [crd-an](https://github.com/stijn-veren/crd-an)
+[rsa-sw](https://github.com/stijn-veren/rsa-sw)
 
 - https://redux.js.org
 
 #
 
-### React Redux
+### MobX
 
-[rrp-jb](https://github.com/stijn-veren/rrp-jb)
+[rsa-sw](https://github.com/stijn-veren/rsa-sw)
 
-- https://github.com/reduxjs/react-redux
+- https://mobx.js.org/README.html
 
 #
 
