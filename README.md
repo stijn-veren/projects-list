@@ -152,3 +152,15 @@ List of learning projects created for educational purposes
 - name: link
 
 #
+
+### Building a GraphQL Project with React.js by Ray Villalobos
+
+**Source:** https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+
+**Link:** https://github.com/stijn-veren/bgp-rv
+
+#### Projects
+
+- ...: https://github.com/stijn-veren/bgp-rv/tree/main/...
+
+#
