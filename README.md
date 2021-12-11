@@ -164,3 +164,15 @@ List of learning projects created for educational purposes
 - ...: https://github.com/stijn-veren/bgp-rv/tree/main/...
 
 #
+
+### React: Design Patterns by Shaun Wassell
+
+**Source:** https://www.linkedin.com/learning/react-design-patterns
+
+**Link:** https://github.com/stijn-veren/rdp-sw
+
+#### Projects
+
+- ...: https://github.com/stijn-veren/rdp-sw/tree/main/...
+
+#
